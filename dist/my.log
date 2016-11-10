@@ -1,0 +1,33 @@
+[INFO ] 2016-10-25 10:43:45,817 com.webtest.util.Log - Using Firefox
+[INFO ] 2016-10-25 10:43:45,822 com.webtest.util.Log - firefox
+[INFO ] 2016-10-25 10:43:50,143 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/index.php
+[INFO ] 2016-10-25 10:43:50,143 com.webtest.util.Log - className=thickboxcan't find element by prefix.
+[INFO ] 2016-10-25 10:43:50,374 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"name","selector":"username"}
+Command duration or timeout: 37 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'YOS-01602241639', ip: '10.7.90.224', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=name, value=username}
+Session ID: c4130184-98c6-4d40-a303-a26c225513d9
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+[INFO ] 2016-10-25 10:43:50,391 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"name","selector":"password"}
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'YOS-01602241639', ip: '10.7.90.224', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=name, value=password}
+Session ID: c4130184-98c6-4d40-a303-a26c225513d9
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+[INFO ] 2016-10-25 10:43:50,392 com.webtest.util.Log - className=txtboxcan't find element by prefix.
+[INFO ] 2016-10-25 10:43:54,192 com.webtest.util.Log - Quitted Browser
+[INFO ] 2016-10-25 10:46:01,785 com.webtest.util.Log - Using Firefox
+[INFO ] 2016-10-25 10:46:01,940 com.webtest.util.Log - firefox
+[INFO ] 2016-10-25 10:46:06,098 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/index.php
+[INFO ] 2016-10-25 10:46:09,407 com.webtest.util.Log - className=txtboxcan't find element by prefix.
+[INFO ] 2016-10-25 10:46:10,815 com.webtest.util.Log - Quitted Browser
+[INFO ] 2016-10-25 10:49:00,931 com.webtest.util.Log - Using Firefox
+[INFO ] 2016-10-25 10:49:00,935 com.webtest.util.Log - firefox
+[INFO ] 2016-10-25 10:49:06,765 com.webtest.util.Log - Opened url http://localhost:8032/MyMovie/index.php
+[INFO ] 2016-10-25 10:49:21,556 com.webtest.util.Log - Quitted Browser

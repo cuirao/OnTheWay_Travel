@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30608" started-at="2016-10-24T09:16:34Z" finished-at="2016-10-24T09:17:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30608" started-at="2016-10-24T09:16:34Z" finished-at="2016-10-24T09:17:04Z">
+      <class name="com.edu.test.BaiduTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:com.edu.test.BaiduTest@4ba43077]" name="doBeforeMethod" is-config="true" duration-ms="19321" started-at="2016-10-24T17:16:34Z" finished-at="2016-10-24T17:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testSearch12()[pri:0, instance:com.edu.test.BaiduTest@4ba43077]" name="testSearch12" duration-ms="9056" started-at="2016-10-24T17:16:53Z" finished-at="2016-10-24T17:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch12 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:com.edu.test.BaiduTest@4ba43077]" name="doAfterMethod" is-config="true" duration-ms="2190" started-at="2016-10-24T17:17:02Z" finished-at="2016-10-24T17:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- com.edu.test.BaiduTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
